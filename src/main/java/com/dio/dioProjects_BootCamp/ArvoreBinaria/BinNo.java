@@ -11,7 +11,6 @@ public class BinNo <T>{
     }
 
     public BinNo(){
-
     }
 
     public T getConteudo() {
