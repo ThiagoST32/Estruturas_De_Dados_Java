@@ -1,4 +1,4 @@
-package com.dio.dioProjects_BootCamp.projetono;
+package com.dio.dioProjects_BootCamp.projetoNo;
 
 public class Main {
     public static void main(String[] args) {
